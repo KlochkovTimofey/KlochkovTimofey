@@ -6,7 +6,12 @@
 
 <h1 align="center">
   Привет 👋 Я Тимофей
+  
+  Hi There 👋 I'm Timofey         
+  こんにちは 👋 ティモフェイです
 </h1> 
+
+
 
 <!--   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFyMnRjaDltcXg1MjNmZDE3ZGxxOHp1Zm95cWwzYjF0MWNwNXo4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="550" height="350"/> -->
 
