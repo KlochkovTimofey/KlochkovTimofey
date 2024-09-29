@@ -19,10 +19,11 @@
 
 ### :man_technologist: Обо мне :
 
-Я Full-Stack Разработчик из России.
+Я Full-Stack Разработчик из России. Моё призвание создавать сайты, которые не только визуально привлекательно, но и функциональны! 
+
 - :telescope: В настоящее время обучаюсь в школе Информационных Техналогий (IT) "Hello World!".
 
-- :zap: В свободное время я решаю разные тесты и стремлюсь к развитию своих навыков (GeekBrains, Web3School, Codewars).
+- :zap: В свободное время я решаю разные тесты (GeekBrains, Web3School, Codewars), a также стремлюсь к развитию своих навыков.
 
 - :mailbox:Как со мной связаться: klochkov.timofey.s@gmail.com
 
@@ -30,7 +31,7 @@
 
 ### :hammer_and_wrench: Мой стек техналогий :
 
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=Javascript&logoColor=yellow"> <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=3DF0FF"> <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5&logoColor=orange"> <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=3DF0FF"> <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=Typescript&logoColor=3DF0FF"> <img src="https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=SASS&logoColor=pink"> <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=Bootstrap&logoColor=8A2BE2"> <img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=TailwindCSS&logoColor=3DF0FF"> <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=red"> <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js&logoColor=3DF0FF">
+<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=Javascript&logoColor=yellow"> <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=3DF0FF"> <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5&logoColor=orange"> <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=3DF0FF"> <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=Typescript&logoColor=3DF0FF"> <img src="https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=SASS&logoColor=pink"> <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=Bootstrap&logoColor=8A2BE2"> <img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=TailwindCSS&logoColor=3DF0FF"> <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=red"> <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js&logoColor=3DF0FF"> <img src="https://img.shields.io/badge/FIGMA-black?style=for-the-badge&logo=Figma&logoColor=00FF00">
 
 
 
