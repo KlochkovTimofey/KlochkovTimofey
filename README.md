@@ -14,15 +14,8 @@
 
 ### :man_technologist: Обо мне :
 
-Я Full-Stack Разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+Я Full-Stack Разработчик из России.
 
-- :telescope: Я работаю инженером-программистом и вношу свой вклад во внешний интерфейс и серверную часть для создания веб-приложений.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: В свободное время я решаю тесты на GeekBrains, Codewars и читаю технические статьи.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 <!-- <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=Javascript&logoColor=yellow"> -->
 
 
