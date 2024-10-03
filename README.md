@@ -4,17 +4,12 @@
 </div>
 
 <!-- https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzk0bGdoZmo4cWdrczFqb2gzZTR3MnB4aWd0MXA4ZHo0M2hpNzNqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif -->
-
 <h1 align="center">
   Привет 👋 Я Тимофей
   
   Hi There 👋 I'm Timofey         
   こんにちは 👋 ティモフェイです
-  
 </h1> 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=KlochkovTimofey&color=0000FF" alt=""/></div>
-
----
 
 <!--   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFyMnRjaDltcXg1MjNmZDE3ZGxxOHp1Zm95cWwzYjF0MWNwNXo4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="550" height="350"/> -->
 
