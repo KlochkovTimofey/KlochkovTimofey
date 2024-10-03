@@ -1,8 +1,9 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzk0bGdoZmo4cWdrczFqb2gzZTR3MnB4aWd0MXA4ZHo0M2hpNzNqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="550" height="250"/>
+  <img src="https://s1.gifyu.com/images/SBMX6.gif"/>
+  <img src="https://s1.gifyu.com/images/SBpS1.gif" width="400px" />
 </div>
 
-
+<!-- https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzk0bGdoZmo4cWdrczFqb2gzZTR3MnB4aWd0MXA4ZHo0M2hpNzNqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif -->
 
 <h1 align="center">
   Привет 👋 Я Тимофей
