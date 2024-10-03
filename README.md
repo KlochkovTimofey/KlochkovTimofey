@@ -10,8 +10,9 @@
   
   Hi There 👋 I'm Timofey         
   こんにちは 👋 ティモフェイです
+  <div align="center"><img src="https://komarev.com/ghpvc/?username=KlochkovTimofey&style=flat-square&color=blue" alt=""/></div>
 </h1> 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=KlochkovTimofey&style=flat-square&color=blue" alt=""/></div>
+
 
 ---
 
