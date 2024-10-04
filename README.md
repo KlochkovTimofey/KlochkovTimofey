@@ -3,16 +3,12 @@
   <img src="https://s1.gifyu.com/images/SBpS1.gif" width="400px" />
 </div>
 
-<!-- https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzk0bGdoZmo4cWdrczFqb2gzZTR3MnB4aWd0MXA4ZHo0M2hpNzNqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif -->
 <h1 align="center">
   Привет 👋 Я Тимофей
   
   Hi There 👋 I'm Timofey         
   こんにちは 👋 ティモフェイです
 </h1> 
-
-<!--   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFyMnRjaDltcXg1MjNmZDE3ZGxxOHp1Zm95cWwzYjF0MWNwNXo4ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="550" height="350"/> -->
-
 
 ### :man_technologist: Обо мне :
 
@@ -28,19 +24,17 @@
 
 ### :hammer_and_wrench: Мой стек техналогий :
 
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=Javascript&logoColor=yellow"> <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=3DF0FF"> <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5&logoColor=orange"> <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=3DF0FF"> <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=Typescript&logoColor=3DF0FF"> <img src="https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=SASS&logoColor=pink"> <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=Bootstrap&logoColor=8A2BE2"> <img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=TailwindCSS&logoColor=3DF0FF"> <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=red"> <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js&logoColor=3DF0FF"> <img src="https://img.shields.io/badge/FIGMA-black?style=for-the-badge&logo=Figma&logoColor=00FF00">
-
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,figma,git,bootstrap,firebase,react,sass,ts,tailwindcss)](https://skillicons.dev)
 
 ---
 
 ### :fire: Моя статистика :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KlochkovTimofey&theme=elegant&locale=ru)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KlochkovTimofey&theme=noctis_minimus&locale=ru)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlochkovTimofey&layout=compact&theme=dark&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KlochkovTimofey&theme=noctis_minimus&locale=ru)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlochkovTimofey&layout=compact&theme=noctis_minimus&locale=en)](https://github.com/anuraghazra/github-readme-stats) 
 
 ---
 
@@ -53,15 +47,3 @@
 
 Kwork — https://kwork.ru/user/timofeyklochkov
  
-<!-- <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=Javascript&logoColor=yellow"> -->
-
-
-<!--   <a href="https://t.me/junglesx">
-    <img src="https://img.shields.io/badge/Телеграм-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/ЮТУБ-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/ВК-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
