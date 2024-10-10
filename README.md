@@ -1,7 +1,7 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://s1.gifyu.com/images/SBMX6.gif"/>
   <img src="https://s1.gifyu.com/images/SBpS1.gif" width="400px" />
-</div>
+</div> -->
 
 <h1 align="center">
   Привет 👋 Я Тимофей
